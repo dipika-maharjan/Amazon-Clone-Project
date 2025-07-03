@@ -9,9 +9,10 @@ It aims to replicate the look and feel of Amazon’s homepage, showcasing produc
 - CSS3 (Flexbox and Grid)
 
 ## Screenshots
-![amazon1](https://github.com/user-attachments/assets/af8cd957-c047-47d2-8bc4-a64923363a88)
-![amazon2](https://github.com/user-attachments/assets/c77a32bb-adb3-4d90-b3b0-08622e86e1ee)
-![amazon3](https://github.com/user-attachments/assets/b4629399-f330-4539-a316-74360c40b1b6)
+![a1](https://github.com/user-attachments/assets/0d9d830f-747f-4c97-a58c-9b25c773926c)
+![a2](https://github.com/user-attachments/assets/8aca8209-c57e-48a1-8653-95500e44b477)
+![a3](https://github.com/user-attachments/assets/d6fef8f2-e4bf-465a-a156-e1441b079d06)
+
 
 ## How to Run
 
