@@ -9,9 +9,7 @@ It aims to replicate the look and feel of Amazon’s homepage, showcasing produc
 - CSS3 (Flexbox and Grid)
 
 ## Screenshots
-![a1](https://github.com/user-attachments/assets/0d9d830f-747f-4c97-a58c-9b25c773926c)
-![a2](https://github.com/user-attachments/assets/8aca8209-c57e-48a1-8653-95500e44b477)
-![a3](https://github.com/user-attachments/assets/d6fef8f2-e4bf-465a-a156-e1441b079d06)
+![127 0 0 1_5500_index html(Nest Hub Max)](https://github.com/user-attachments/assets/c6e30672-7259-400b-b5ef-10980e6ef7d1)
 
 
 ## How to Run
